@@ -9,5 +9,16 @@ public class Assignment2 {
         /**
          * 2. Print some ascii art using print and println
          */
+
+        String name = "Alex B. Dearmore";
+
+        System.out.print("Hello, ");
+        System.out.println(name);
+
+        System.out.println("             |");
+        System.out.println("             |");
+        System.out.println("            (O)");
+        System.out.println("  X--------<_._>--------X");
+        System.out.println("           (___)");
     }
 }
